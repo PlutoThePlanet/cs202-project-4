@@ -1,0 +1,10 @@
+**** The format for Manager data is
+**** Last name, first name, employment status, department name, store ID, salary per day, days since last paycheck
+**** The format for ShopWorker data is
+**** Last name, first name, employment status, department name, shop phone number, shop ID, hourly rate, hours worked
+Manager Smith John Active Clothing 123 300.00 5
+Manager Smith Ethel Retired Clothing 123 400.00 0
+Manager Smith BigBad Dismissed Shoes 332 100.00 0
+ShopWorker Potter Gandalf Active Magic 555-555-1212 144 23.40 10
+ShopWorker Frokenstine Igor Active Brains 555-555-1212 300 100.40 12
+

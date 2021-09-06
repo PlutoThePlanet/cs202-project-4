@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 526 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="graph0" transform="matrix(1,0,0,1,4,178)">
+        <g id="node1">
+            <rect x="186" y="-173" width="84" height="36" style="fill:rgb(211,211,211);fill-opacity:0.2;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="186" y="-173" width="84" height="36" style="fill:rgb(211,211,211);fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,228,-151.3)">
+                <text x="-24.382px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">Employee</text>
+            </g>
+        </g>
+        <g id="node3">
+            <rect x="136.5" y="-41" width="77" height="36" style="fill:rgb(211,211,211);fill-opacity:0.2;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="136.5" y="-41" width="77" height="36" style="fill:rgb(211,211,211);fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,175,-19.3)">
+                <text x="-21.611px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">Manager</text>
+            </g>
+        </g>
+        <g id="edge2">
+            <path d="M217.077,-127.207C206.581,-101.462 191.03,-63.32 182.067,-41.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M217.077,-127.207C206.581,-101.462 191.03,-63.32 182.067,-41.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.1;stroke-width:1px;"/>
+            <path d="M213.946,-128.798L220.962,-136.737L220.428,-126.156L213.946,-128.798Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M213.946,-128.798L220.962,-136.737L220.428,-126.156L213.946,-128.798Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g id="node4">
+            <rect x="232" y="-41" width="98" height="36" style="fill:rgb(211,211,211);fill-opacity:0.2;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="232" y="-41" width="98" height="36" style="fill:rgb(211,211,211);fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,281,-19.3)">
+                <text x="-30.623px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">ShopW<tspan x="4.241px 10.31px " y="0px 0px ">or</tspan>ker</text>
+            </g>
+        </g>
+        <g id="edge3">
+            <path d="M238.923,-127.207C249.419,-101.462 264.97,-63.32 273.933,-41.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M238.923,-127.207C249.419,-101.462 264.97,-63.32 273.933,-41.334" style="fill:none;fill-rule:nonzero;stroke:black;stroke-opacity:0.1;stroke-width:1px;"/>
+            <path d="M235.572,-126.156L235.038,-136.737L242.054,-128.798L235.572,-126.156Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M235.572,-126.156L235.038,-136.737L242.054,-128.798L235.572,-126.156Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+        <g id="node5" transform="matrix(1,0,0,1,-15.2472,-126.461)">
+            <rect x="348" y="-45.5" width="170" height="45" style="fill:rgb(211,211,211);fill-opacity:0.2;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="348" y="-45.5" width="170" height="45" style="fill:rgb(211,211,211);fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,433,-34.3)">
+                <text x="-37.659px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">&lt;&lt;IP<tspan x="-11.296px -5.369px 0.354px 6.36px " y="0px 0px 0px 0px ">ayab</tspan>le&gt;&gt;</text>
+            </g>
+            <g transform="matrix(1,0,0,1,433,-19.3)">
+                <text x="-19.187px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">P<tspan x="-13.401px -7.473px -1.75px 4.255px " y="0px 0px 0px 0px ">ayab</tspan>le</text>
+            </g>
+            <path d="M348,-15.5L518,-15.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M348,-15.5L518,-15.5" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,433,-4.3)">
+                <text x="-52.522px" y="0px" style="font-family:'Verdana', sans-serif;font-size:10px;">+currentP<tspan x="-2.253px 3.674px " y="0px 0px ">ay</tspan>() : ﬂoat</text>
+            </g>
+        </g>
+        <g transform="matrix(0.265469,-0.188146,0.213683,0.301501,236.452,-64.6808)">
+            <path d="M263.928,-131.217C301.944,-107.109 361.492,-69.347 398.828,-45.67" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.73px;"/>
+        </g>
+        <g transform="matrix(0.614511,-0.366915,0.402179,0.673572,169.519,31.5483)">
+            <path d="M261.793,-128.426L255.222,-136.737L265.542,-134.337L261.793,-128.426Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,429,202)">
+        <text x="0px" y="0px" style="font-family:'Verdana', sans-serif;font-size:6px;fill:rgb(119,136,153);">CREA<tspan x="15.905px 19.603px " y="0px 0px ">TE</tspan>D WITH YUML</text>
+    </g>
+</svg>
